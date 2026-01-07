@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=DILSHODBEK%20ILHOMOV&fontSize=40&fontColor=00d4ff&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20|%2015%20Y/O%20|%20System-Oriented&descSize=14&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=200&section=header&text=DILSHODBEK%20ILHOMOV&fontSize=40&fontColor=00d4ff&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20&descAlign=50)
 
 
 <br/>
@@ -18,7 +18,7 @@ $ ./initialize_developer.sh
 [OK] Loading profile: Dilshodbek Ilhomov
 [OK] Age: 15 years
 [OK] Role: Backend Developer
-[OK] Level: Junior | System-Oriented
+[OK] Level: Junior 
 [OK] Status: ACTIVE
 ```
 
@@ -32,7 +32,6 @@ $ ./initialize_developer.sh
 [![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
